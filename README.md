@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/original cube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="original cube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0woYhEqAt7eAATLP-M5YfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="original cube" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lancemiraflorcu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lancemiraflorcu1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/original cube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="original cube" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/originalcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="original cube" height="30" width="40" /></a>
 </p>
 
 
