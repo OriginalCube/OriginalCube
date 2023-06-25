@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Original Cube</h1>
-<h3 align="center">Bruh... didn't record my 39 streak. 🤦‍♂️</h3>
+<h3 align="center">Bruh... didn't record my 40+ streak. 🤦‍♂️</h3>
 
 - 🔭 I’m currently working on [Tropapp](stillprivate)
 
