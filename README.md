@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Original Cube</h1>
 <h3 align="center">Bruh... didn't record my 39 streak. 🤦‍♂️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=originalcube&label=Profile%20views&color=0e75b6&style=flat" alt="originalcube" /> </p>
-
 - 🔭 I’m currently working on [Tropapp](stillprivate)
 
 - 🌱 I’m currently learning **Web Developing**
