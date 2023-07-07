@@ -23,6 +23,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalcube&show_icons=true&locale=en&layout=compact" alt="originalcube" /></p>
 
+<a href="https://wakatime.com/@0567dadb-e62b-484d-847e-34e28810ef55"><img src="https://wakatime.com/badge/user/0567dadb-e62b-484d-847e-34e28810ef55.svg" alt="Total time coded since Jul 3 2023" /></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=originalcube&" alt="originalcube" /></p>
 
 <h3 align="left">Favorite Languages and Tools:</h3>
