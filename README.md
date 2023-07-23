@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Original Cube</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [Tropapp](stillprivate)
+- 🔭 I’m currently working on [Showcase](stillprivate)
 
 - 🌱 I’m currently learning **Web Developing**
 
