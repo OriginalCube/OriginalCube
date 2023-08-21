@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **lancemiraflorcube@gmail.com**
 
+- 📔 Most of the Icons used in my projects are from Flaticon.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UC0woYhEqAt7eAATLP-M5YfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="original cube" height="30" width="40" /></a>
