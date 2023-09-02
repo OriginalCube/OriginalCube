@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Showcase](https://github.com/OriginalCube/showcase)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development(Vue JS)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OriginalCube?tab=repositories](https://github.com/OriginalCube?tab=repositories)
 
