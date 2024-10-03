@@ -17,3 +17,6 @@
   </table>
 </div>
 
+# Future App Ideas
+- [ ] Phone auto sleep and settings adjustments.
+- [ ] Sikret!
