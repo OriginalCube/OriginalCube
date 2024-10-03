@@ -17,6 +17,8 @@
   </table>
 </div>
 
-# Future App Ideas
-- [ ] Phone auto sleep and settings adjustments.
+## 💡 Future App Ideas
+> "Dunno when to start"
+- [ ] 📱 Phone auto sleep and settings adjustments.
+- [ ] 🎮 Web game engine w 3JS 
 - [ ] Sikret!
