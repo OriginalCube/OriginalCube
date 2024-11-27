@@ -22,3 +22,15 @@
 - [ ] 📱 Phone auto sleep and settings adjustments.
 - [ ] 🎮 Web game engine w 3JS 
 - [ ] Sikret!
+
+# My Prettier Config
+```js
+export default {
+	semi: false,
+	singleQuote: true,
+	printWidth: 120,
+	endOfLine: 'auto',
+	useTabs: true,
+	tabWidth: 4
+}
+```
