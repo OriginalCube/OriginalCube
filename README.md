@@ -20,7 +20,8 @@
 ## 💡 Future App Ideas
 > "Dunno when to start"
 - [ ] 📱 Phone auto sleep and settings adjustments.
-- [ ] 🎮 Web game engine w 3JS 
+- [ ] 🎮 Web game engine w 3JS
+- [ ] 🐶 Swappy multiple random API
 - [ ] Sikret!
 
 # My Prettier Config
