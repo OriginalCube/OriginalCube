@@ -22,6 +22,7 @@
 - [ ] 📱 Phone auto sleep and settings adjustments.
 - [ ] 🎮 Web game engine w 3JS
 - [ ] 🐶 Swappy multiple random API
+- [ ] 🖋️ Create a TODO as an extention in VSCode
 - [ ] Sikret!
 
 # My Prettier Config
