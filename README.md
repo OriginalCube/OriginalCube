@@ -24,6 +24,8 @@
 - [ ] 🐶 Swappy multiple random API
 - [ ] 🖋️ Create a TODO as an extention in VSCode
 - [ ] 📓 JRa personal
+- [ ] 🧭Online Marketlike for bocchi
+- [ ] ⚪ Sync Iframe
 - [ ] Sikret!
 
 # My Prettier Config
